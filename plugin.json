@@ -1,0 +1,31 @@
+{
+  "slug": "AudibleInstruments_Mutated-Mutables",
+  "name": "Audible Instruments (Mutated)",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "author": "VCV, Tim Churches & Steve Russell",
+  "authorEmail": "support@vcvrack.com",
+  "authorUrl": "https://vcvrack.com/",
+  "pluginUrl": "https://vcvrack.com/AudibleInstruments",
+  "manualUrl": "http://timchurches.github.io/Mutated-Mutables/",
+  "sourceUrl": "https://github.com/timchurches/Mutated-Mutables",
+  "changelogUrl": "",
+  "description": "Based on Mutable Instruments Eurorack modules + Mutated Mutables mods",
+  "modules": [
+    {
+      "slug": "Peaks",
+      "name": "Percussive Synth",
+      "manualUrl": "https://github.com/timchurches/Mutated-Mutables/releases/tag/DMC-v0.7-beta",
+      "modularGridUrl": "https://www.modulargrid.net/e/mutable-instruments-peaks",
+      "description": "Based on Mutable Instruments Peaks + Dead Man's Catch firmware + DocPolyester mod",
+      "tags": [
+        "Drum",
+        "Envelope generator",
+        "Oscillator",
+        "LFO",
+        "Sequencer",
+        "Hardware clone"
+      ]
+    }
+  ]
+}
