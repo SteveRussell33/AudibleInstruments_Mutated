@@ -175,7 +175,7 @@ struct Peaks : Module {
 			case FUNCTION_TAP_LFO: return "Tap LFO";
 			case FUNCTION_DRUM_GENERATOR: return "Drum generator";
 			case FUNCTION_MINI_SEQUENCER: return "Sequencer (easter egg)";
-			case FUNCTION_PULSE_SHAPER: return "Pulse Shaper (easter egg";
+			case FUNCTION_PULSE_SHAPER: return "Pulse Shaper (easter egg)";
 			case FUNCTION_PULSE_RANDOMIZER: return "Pulse randomizer (easter egg)";
 			case FUNCTION_FM_DRUM_GENERATOR: return "Drum generate FM (easter egg)";
 			default: return "";
